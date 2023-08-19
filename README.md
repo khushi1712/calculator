@@ -1,2 +1,2 @@
-# Portfolio_k
-Khushi's portfolio using html ,css and javascript
+# Calculator
+frontend development program of a working calculator
